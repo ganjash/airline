@@ -12,11 +12,13 @@ open with url: http://localhost:600/airline/
 
 Contributors:
 
-Sri Harsha Ganja
 Aman Miryala
 Akash Patti
 
 ## Creators
+**SRI HARSHA GANJA**
+
+* <https://github.com/ganjash>
 
 **Mark Otto**
 
