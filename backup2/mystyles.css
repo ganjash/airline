@@ -1,0 +1,19 @@
+.err {
+    color: red;
+    font-size: smaller;
+    font-style: italic;
+}
+
+span.highlight{
+	font-weight: bold;
+	font-size: large;
+}
+
+tr.selectt:hover{
+	background-color: rgb(51, 153, 255);	
+	cursor:pointer;
+}
+
+.selected{
+	background-color: rgb(51, 153, 255);	
+}
